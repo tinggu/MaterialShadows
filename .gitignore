@@ -1,40 +1,5 @@
-*.iml
-.gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-/app/
-### Windows template
-# Windows thumbnail cache files
-Thumbs.db
-ehthumbs.db
-ehthumbs_vista.db
 
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# Windows shortcuts
-*.lnk
-### Example user template template
-### Example user template
-
-# IntelliJ project files
-.idea
-out
-gen### Android template
+### Android template
 # Built application files
 *.apk
 *.ap_
@@ -70,6 +35,7 @@ proguard/
 captures/
 
 # Intellij
+*.iml
 .idea/workspace.xml
 .idea/tasks.xml
 .idea/gradle.xml
@@ -79,6 +45,8 @@ captures/
 # Keystore files
 *.jks
 
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild
 
 # Google Services (e.g. APIs or Firebase)
 google-services.json
@@ -87,4 +55,10 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
+### Example user template template
+### Example user template
 
+# IntelliJ project files
+.idea
+out
+gen
